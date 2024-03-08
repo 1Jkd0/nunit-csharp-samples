@@ -11,7 +11,7 @@ public class LibraryManager : ILibraryManager
     /// <param name="book">The book to add.</param>
     public void AddBook(Book book)
     {
-        // TODO step 1.
+        // TODO step 1.8
         // TODO step 2.
     }
 
